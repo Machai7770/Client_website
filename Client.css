@@ -1,5 +1,34 @@
 #cap{
     border-bottom: 2px solid black;
-    text-decoration: underline;
     text-align: center;
+}
+#hut{
+    border-bottom: 2px solid black;
+}
+#bob{
+    border-bottom: 2px solid black;
+
+}
+#sar{
+    border-bottom: 2px solid black;
+}
+#text{
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-width: 9px;
+    border-radius: 10px;
+    border-color: purple;
+    border-style: solid;
+    background-color: gold;
+}
+#welcome{
+    text-align: center;
+    font-size: 22px;
+    font-family:'Courier New', Courier, monospace;
+    color: purple;
+    border: 10px solid purple;
+    border-width: 9px;
+    border-radius: 10px;
 }
